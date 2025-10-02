@@ -1,0 +1,59 @@
+ SQL problem statement
+
+List employees who earn more than 60,000.
+
+Find employees working in the IT department.
+
+Display all employees ordered by their salary in descending order.
+
+Show employees ordered by department ID and then by salary in descending order.
+
+Find the total number of employees in each department.
+
+Find the total salary expense for each department.
+
+Find departments having more than 1 employee.
+
+Show departments where the total salary exceeds 100,000.
+
+Find the average salary of employees with experience more than 5 years, grouped by department.
+
+Find the highest salary in each department and order the result by salary in descending order.
+
+-------------------------------------------------------------------------------------
+
+10 JOIN Problem Statements
+
+Display employee names along with their department names.
+
+List all employees with their job title and the location of their department.
+
+Show employees who work in the Finance department.
+
+Find the employees whose salary is greater than 60,000 along with their department details.
+
+Display department names along with the number of employees in each department.
+
+Show the highest paid employee in each department along with the department name.
+
+Show employees who joined after 2018 along with their department names.
+
+-------------------------------------------------------------------------------------
+
+ subquery problem statements 
+
+Find employees who earn more than the average salary of all employees.
+
+Find employees working in the same department as ‘Alice’.
+
+Find employees whose salary is equal to the maximum salary in the company.
+
+Find employees who earn more than the average salary of their department.
+
+Find employees who are in departments located in Bangalore.
+
+Find employees whose salary is greater than Bob’s salary.
+
+Find the department that has the highest total salary.
+
+-------------------------------------------------------------------------------------
