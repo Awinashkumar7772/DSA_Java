@@ -1,4 +1,4 @@
-//   Q1 .  maximum Subaaray solution
+//   Q1 .  maximum Subaaray solution kadane Algorithms
 class Solution {
     public int maxSubArray(int[] nums) {
         int max = nums[0];
