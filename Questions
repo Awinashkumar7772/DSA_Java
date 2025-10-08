@@ -72,4 +72,24 @@ class Solution {
     }
 }
 
+// Q5 Print all number
+package dac;
+
+import java.util.Scanner;
+
+public class PrintAllNumber {
+public static void main(String[] args) {
+	  Scanner s = new Scanner(System.in);
+	  System.out.println("Enter the value of n");
+	  int n = s.nextInt();
+	  int num = 1;
+	  int sum = 0;
+	  while(num<=n) {
+		  sum = num+sum;
+		  num++;
+	  }
+	  System.out.println(sum);
+}
+  
+}
 
