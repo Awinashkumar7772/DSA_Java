@@ -19,3 +19,4 @@ public class Insertion {
 		System.out.println(Arrays.toString(arr));
 	}
 }
+
